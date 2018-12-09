@@ -22,4 +22,4 @@ Below is a screenshot of music-machine running
 
 Below is the link to a video of music machine running in android emulator on Windows 10
 
-[![Music machine running on android on windows 10](http://img.youtube.com/vi/7STF_dLwFVg/0.jpg)](https://youtu.be/7STF_dLwFVg, "Music machine android")
+[![Music machine running on android on windows 10](http://img.youtube.com/vi/7STF_dLwFVg/0.jpg)](https://youtu.be/7STF_dLwFVg "Music machine android")
