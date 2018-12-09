@@ -1,0 +1,35 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+header {
+  /* background-image: linear-gradient(to bottom, midnightblue, #e1e5f0 100%); */
+  background: #BBBCC2;
+  padding: 5px;
+  position: relative;
+  margin: 0 .25rem;
+  margin-bottom: 5rem;
+  border-bottom-left-radius: .25rem;
+  border-bottom-right-radius: .25rem
+}
+ 
+
+.machine-navbar {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  margin-top: 3px;
+  margin-left: 2rem;
+  color: #283EF0;
+}
+
+.css-instrument-name {
+  width: 100%;
+  text-align: left;
+  background: #BBBCC2;
+  color:#283EF0;
+}
+
+#slider {
+  background:#A45178;
+}
